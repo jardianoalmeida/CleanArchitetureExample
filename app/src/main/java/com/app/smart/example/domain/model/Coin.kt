@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.domain.model
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.domain.model
 
 import com.google.gson.annotations.SerializedName
 

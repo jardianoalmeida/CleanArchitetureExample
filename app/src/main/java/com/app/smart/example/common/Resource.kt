@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.common
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.common
 
 sealed class Resource<T>(val data: T? = null, val message: String? = null) {
     class Success<T>(data: T) : Resource<T>(data)

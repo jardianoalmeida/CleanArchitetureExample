@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.domain.use_case.get_coin
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.domain.use_case.get_coin
 
 import com.plcoding.cryptocurrencyappyt.common.Resource
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.toCoin

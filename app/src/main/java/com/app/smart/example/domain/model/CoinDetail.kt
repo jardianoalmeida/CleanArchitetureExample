@@ -1,4 +1,4 @@
-package com.app.smart.example.domain.model
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.app.smart.example.domain.model
 
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.TeamMember
 

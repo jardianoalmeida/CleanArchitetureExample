@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.data.remote
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.data.remote
 
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.CoinDetailDto
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.CoinDto

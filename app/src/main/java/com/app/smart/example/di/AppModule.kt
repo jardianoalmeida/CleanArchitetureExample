@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.di
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.di
 
 import com.plcoding.cryptocurrencyappyt.common.Constants
 import com.plcoding.cryptocurrencyappyt.data.remote.CoinPaprikaApi

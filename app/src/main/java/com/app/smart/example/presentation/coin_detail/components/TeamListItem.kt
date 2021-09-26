@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

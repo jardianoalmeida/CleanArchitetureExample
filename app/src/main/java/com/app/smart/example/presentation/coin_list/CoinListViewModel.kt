@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.coin_list
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.presentation.coin_list
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf

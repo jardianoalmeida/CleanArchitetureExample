@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.data.repository
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.data.repository
 
 import com.plcoding.cryptocurrencyappyt.data.remote.CoinPaprikaApi
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.CoinDetailDto

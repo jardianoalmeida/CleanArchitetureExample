@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation
+com.app.smart.examplecom.app.smart.examplecom.app.smart.examplepackage com.plcoding.cryptocurrencyappyt.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
